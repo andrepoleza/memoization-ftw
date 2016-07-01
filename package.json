@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/andrepoleza/memoization-ftw#readme",
   "devDependencies": {
-    "ava": "^0.15.2"
+    "ava": "^0.15.2",
+    "is-perfect-number": "^1.0.0"
   }
 }
